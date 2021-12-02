@@ -1,5 +1,6 @@
 import React from "react";
 import { useFormik } from "formik";
+import 'bootstrap/dist/css/bootstrap.min.css';
 // TODO: import useFormik from formik library
 
 function App() {
